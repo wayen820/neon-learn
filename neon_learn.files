@@ -1,4 +1,0 @@
-build_aarch64.sh
-build_armv7.sh
-CMakeLists.txt
-test.cpp
